@@ -9,6 +9,10 @@
 * [![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-08.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-08)
 
 ### Modules
+
+In the models folder --
+
+
 categories-schema.js
 * creates category schema
 
@@ -32,7 +36,7 @@ morgan
 express
 
 #### Running the app
-* We used tests to confirm our code is functioning the way we want, since we do not have a live database, we are mocking our data within the tests.
+* ```node index.js```
   
 #### Tests
 * How do you run tests?
